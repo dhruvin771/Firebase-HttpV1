@@ -1,4 +1,4 @@
-# Firebase Messaging Notification using HTTPv1
+# Firebase Messaging Notification using HTTPv1 (Temporarily Stopped)
 
 This repository helps you understand how to send Firebase Messaging Notification using the HTTPv1 API with Java and Kotlin.
 
